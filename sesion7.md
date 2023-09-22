@@ -16,7 +16,7 @@ Requerimientos del proyecto:
 
 Se diseñó una página web y su contenido principal, se subieron los cambios al repositorio, y luego se subieron los cambios del archivo README.md y se añadió la sección nav a la página principal.
 
-URL repositorio: https://github.com/anggomezmo/Actividad7Intro
+URL del [RESPOSITORIO.](https://github.com/anggomezmo/Actividad7Intro) 
 
 Código de la página:
 
